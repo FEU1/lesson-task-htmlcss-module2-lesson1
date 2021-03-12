@@ -11,4 +11,8 @@ At the end of this lesson task you should have:
 - Rounded the corners on the image in the 'Our Guitars Are:' section
 - Made the review profile picture images round.
 
-![Result after Task 2.1](assets/html-css_task2-1_result.gif)
+### Video
+
+This video shows you how to complete the lesson task 2.1. Only watch it after attempting the lesson task by yourself.
+
+[View on Vimeo](https://vimeo.com/479772442/b605d97ccb)
